@@ -1,0 +1,42 @@
+{
+    "categories": [
+      { "id": 1, "name": "Electronics" },
+      { "id": 2, "name": "Clothing" }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "MacBook 2022",
+        "category_id": 1,
+        "price": 2459.99,
+        "description": "Powerful laptop for all your computing needs.",
+        "image": "https://i.pcmag.com/imagery/reviews/01mBttlv1qMiXYpc1bfOj1h-1..v1657726621.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Iphone 14 Pro Max",
+        "category_id": 1,
+        "price": 1990.99,
+        "description": "Iphone for your life.",
+        "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "T-shirt Pull&Bear",
+        "category_id": 2,
+        "price": 39.99,
+        "description": "Comfortable cotton T-shirt for everyday wear.",
+        "image": "https://cdna.lystit.com/photos/asos/80a7a9cb/pull-bear-Beige-Oversized-T-shirt.jpeg",
+        "gender": "male"
+      },
+      {
+        "id": 4,
+        "name": "Dress stradivarius",
+        "category_id": 2,
+        "price": 189.99,
+        "description": "SHORT FLOCKED BOHO DRESS.",
+        "image": "https://static.e-stradivarius.net/5/photos3/2023/I/0/1/p/6306/706/001/6306706001_1_1_1.jpg?t=1679314931527&impolicy=stradivarius-itxmediumhigh&imwidth=480&imformat=chrome&imdensity=2.625",
+        "gender": "female"
+      }
+    ]
+  }
